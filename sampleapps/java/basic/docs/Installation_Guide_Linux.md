@@ -49,7 +49,7 @@ This project is a basic service provider web application written in Java to work
 
 ## Removal
 
-To uninstall the service provider sample web application, follow the uninstall instructions in the [FIDO2 Server, Community Edition Installation Guide](https://github.com/StrongKey/fido2/blob/master/docs/Installation_Guide_Linux.md#removal). Removing the StrongKey FIDO Server also removes the sample service provider web application and sample WebAuthn client.
+To uninstall the service provider sample web application, follow the uninstall instructions in the [FIDO2 Server, Community Edition Installation Guide](https://docs.strongkey.com/index.php/skfs-home/skfs-installation/skfs-installation-removal). Removing the StrongKey FIDO Server also removes the sample service provider web application and sample WebAuthn client.
 
 ## Contributing to the Sample Service Provider Web Application
 
