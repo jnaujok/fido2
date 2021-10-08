@@ -16,4 +16,4 @@ For more information on the originating jargon and related terms, visit the Inte
 Follow [the installation instructions](https://docs.strongkey.com/index.php/skfs-home/skfs-usage/skfs-proof-of-concept-java-application) to download and install the latest basic demo sample.
 
 ## Upgrade
-Follow [the upgrade instructions](docs/Upgrade_Guide_Linux.md) to upgrade your current version of basic demo to the latest.
+Follow [the upgrade instructions](https://docs.strongkey.com/index.php/skfs-home/skfs-installation/skfs-upgrading) to upgrade your current version of basic demo to the latest.
